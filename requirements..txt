@@ -1,0 +1,1 @@
+echo "fastapi\nuvicorn" > requirements.txt
